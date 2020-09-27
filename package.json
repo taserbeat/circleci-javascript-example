@@ -1,0 +1,14 @@
+{
+  "name": "circleci-javascript-example",
+  "version": "1.0.0",
+  "description": "test for CI/CD on CircleCI",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "26.1.0"
+  }
+}
