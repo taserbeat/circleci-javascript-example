@@ -37,7 +37,7 @@ circleci local execute
 ## Cloud
 
 - First time  
-    `Add project` -> `Set Up Project` -> `Use Existing Config` -> `Start Building`
+    `Set Up Project` -> `Use Existing Config` -> `Start Building`
 
 - Second time or later  
     CI works when latest commits are pushed.
