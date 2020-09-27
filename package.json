@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "test for CI/CD on CircleCI",
   "scripts": {
-    "test": "jest"
+    "test": "TZ='Asia/Tokyo' jest"
   },
   "keywords": [],
   "author": "",
